@@ -1,1 +1,1 @@
-utility functions for version 2 the project
+utility functions for version 2 to the project 
